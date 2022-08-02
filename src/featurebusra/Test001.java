@@ -6,5 +6,6 @@ public class Test001 {
 
         System.out.println("Java");
         System.out.println("hello from bruno");
+        System.out.println("coding part 2");
     }
 }
