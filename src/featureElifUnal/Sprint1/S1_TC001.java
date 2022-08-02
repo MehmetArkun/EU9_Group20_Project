@@ -1,4 +1,4 @@
-package featureElifUnal.Sprint1;
+package Sprint1;
 
 public class S1_TC001 {
     public static void main(String[] args) {
